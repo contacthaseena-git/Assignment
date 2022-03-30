@@ -22,7 +22,7 @@ namespace CreditAPI.Controller
 
         [Route("Decision")]
         [AllowAnonymous]
-        public IActionResult creditDecision([Bind] int creditAmount, [Bind] int currentPreExistingamount, [Bind] int term)
+        public IActionResult creditDecision( int creditAmount,  int currentPreExistingamount,  int term)
         {
             if (!ModelState.IsValid)
             {
