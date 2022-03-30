@@ -1,0 +1,6 @@
+C:\Users\superman comuters\source\repos\creditAPI\creditAPI\obj\Debug\netcoreapp2.2\creditAPI.csprojAssemblyReference.cache
+C:\Users\superman comuters\source\repos\creditAPI\creditAPI\obj\Debug\netcoreapp2.2\creditAPI.csproj.CoreCompileInputs.cache
+C:\Users\superman comuters\source\repos\creditAPI\creditAPI\obj\Debug\netcoreapp2.2\creditAPI.RazorAssemblyInfo.cache
+C:\Users\superman comuters\source\repos\creditAPI\creditAPI\obj\Debug\netcoreapp2.2\creditAPI.RazorAssemblyInfo.cs
+C:\Users\superman comuters\source\repos\creditAPI\creditAPI\obj\Debug\netcoreapp2.2\creditAPI.AssemblyInfoInputs.cache
+C:\Users\superman comuters\source\repos\creditAPI\creditAPI\obj\Debug\netcoreapp2.2\creditAPI.AssemblyInfo.cs
